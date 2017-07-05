@@ -1,0 +1,76 @@
+@font-face {
+	font-family: BuxtonSketch;
+	src: url(../public/BuxtonSketch.ttf);
+}
+
+#logo {
+	font-family: BuxtonSketch;
+	font-size: 500%;
+	text-align: center;
+	margin-top: 5%;
+}
+
+.date_selector {
+	text-align: center;
+}
+
+.start {
+	display: inline;
+	padding-right: 1%;
+}
+
+.end {
+	display: inline;
+}
+
+.terms_selector {
+	text-align: center;
+}
+
+.source {
+	display: inline;
+	padding-right: 1%;
+}
+
+.field {
+	display: inline;
+}
+
+.terms {
+	text-align: center;
+}
+
+.regexp_selector {
+	text-align: center;
+}
+
+.regexp_field {
+	display: inline;
+	padding-right: 1%;
+}
+
+.regexp {
+	display: inline;
+}
+
+.submit_selector {
+	text-align: center;
+}
+
+.cache {
+	display: inline;
+	padding-right: 1%;
+}
+
+.submit {
+	display: inline;
+}
+
+.switch {
+	text-align: center;
+}
+
+.loading {
+	display: none;
+	text-align: center;
+}

@@ -1,0 +1,7 @@
+依赖：
+libcurl4-openssl-dev
+libmysqlclient-dev
+java runtime environment && java development kit
+lucene-6.5.0（/home/weaine/dev/lucene-6.5.0, 环境变量配在/etc/profile)
+
+请将128G磁盘/dev/vdb挂载于/home/ssd
